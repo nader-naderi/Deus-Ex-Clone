@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: ccd6cad7afc661140b659bbc8ca307b0
+timeCreated: 1533143488
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: mg-ammo-clips
+    100004: mg-ammo-clips-shutter
+    100006: mg-ammo-fixer
+    100008: mg-ammo-shutter
+    100010: mg-body
+    100012: mg-but
+    100014: mg-fire-button
+    100016: mg-granade
+    100018: mg-granade-shutter
+    100020: mg-switch
+    400000: //RootNode
+    400002: mg-ammo-clips
+    400004: mg-ammo-clips-shutter
+    400006: mg-ammo-fixer
+    400008: mg-ammo-shutter
+    400010: mg-body
+    400012: mg-but
+    400014: mg-fire-button
+    400016: mg-granade
+    400018: mg-granade-shutter
+    400020: mg-switch
+    2300000: mg-ammo-clips
+    2300002: mg-ammo-clips-shutter
+    2300004: mg-ammo-fixer
+    2300006: mg-ammo-shutter
+    2300008: mg-body
+    2300010: mg-but
+    2300012: mg-fire-button
+    2300014: mg-granade
+    2300016: mg-granade-shutter
+    2300018: mg-switch
+    3300000: mg-ammo-clips
+    3300002: mg-ammo-clips-shutter
+    3300004: mg-ammo-fixer
+    3300006: mg-ammo-shutter
+    3300008: mg-body
+    3300010: mg-but
+    3300012: mg-fire-button
+    3300014: mg-granade
+    3300016: mg-granade-shutter
+    3300018: mg-switch
+    4300000: mg-body
+    4300002: mg-granade-shutter
+    4300004: mg-ammo-shutter
+    4300006: mg-ammo-fixer
+    4300008: mg-ammo-clips-shutter
+    4300010: mg-switch
+    4300012: mg-fire-button
+    4300014: mg-but
+    4300016: mg-ammo-clips
+    4300018: mg-granade
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

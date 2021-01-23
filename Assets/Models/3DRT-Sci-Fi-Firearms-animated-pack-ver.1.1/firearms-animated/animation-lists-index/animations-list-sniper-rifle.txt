@@ -1,0 +1,25 @@
+005	040  show	
+040	070  walk	
+071	089  run	
+090	120  jump	
+120	130  action-1
+130	160  action-2
+160	280  reload	
+280	380  idle-1	
+380	580  idle-2	
+580	680  idle-3	
+680	690  zoom_in	
+690	700  zoom_out
+700	710  hide	
+
+
+
+
+
+
+
+
+
+
+
+

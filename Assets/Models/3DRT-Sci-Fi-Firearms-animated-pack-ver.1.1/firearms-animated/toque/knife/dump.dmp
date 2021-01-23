@@ -1,0 +1,3986 @@
+First pass:  enumerate scene...
+
+Processing Node hand0 with parent ROOT
+Adding skin object from skin "hand0" to bone "Bip01 R Hand" (0).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger0" (1).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger41" (2).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger4" (3).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger42" (4).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger31" (5).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger3" (6).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger32" (7).
+Adding skin object from skin "hand0" to bone "Bip01 R ForeTwist1" (8).
+Adding skin object from skin "hand0" to bone "Bip01 R Forearm" (9).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger21" (10).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger1" (11).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger11" (12).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger12" (13).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger22" (14).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger2" (15).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger02" (16).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger01" (17).
+Adding skin object from skin "hand0" to bone "Bip01 R UpperArm" (18).
+Adding skin object from skin "hand0" to bone "Bip01 L Hand" (19).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger4" (20).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger41" (21).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger42" (22).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger31" (23).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger3" (24).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger32" (25).
+Adding skin object from skin "hand0" to bone "Bip01 L ForeTwist1" (26).
+Adding skin object from skin "hand0" to bone "Bip01 L Forearm" (27).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger21" (28).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger11" (29).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger1" (30).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger12" (31).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger22" (32).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger2" (33).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger02" (34).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger01" (35).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger0" (36).
+Adding skin object from skin "hand0" to bone "Bip01 L UpperArm" (37).
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 1 ("Bip01 R Finger0")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 2 ("Bip01 R Finger41")
+Adding weight 1.000000 for bone 3 ("Bip01 R Finger4")
+Adding weight 1.000000 for bone 2 ("Bip01 R Finger41")
+Adding weight 1.000000 for bone 2 ("Bip01 R Finger41")
+Adding weight 1.000000 for bone 2 ("Bip01 R Finger41")
+Adding weight 1.000000 for bone 2 ("Bip01 R Finger41")
+Adding weight 1.000000 for bone 3 ("Bip01 R Finger4")
+Adding weight 1.000000 for bone 2 ("Bip01 R Finger41")
+Adding weight 1.000000 for bone 2 ("Bip01 R Finger41")
+Adding weight 1.000000 for bone 4 ("Bip01 R Finger42")
+Adding weight 1.000000 for bone 2 ("Bip01 R Finger41")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 5 ("Bip01 R Finger31")
+Adding weight 1.000000 for bone 5 ("Bip01 R Finger31")
+Adding weight 1.000000 for bone 5 ("Bip01 R Finger31")
+Adding weight 1.000000 for bone 6 ("Bip01 R Finger3")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 6 ("Bip01 R Finger3")
+Adding weight 1.000000 for bone 5 ("Bip01 R Finger31")
+Adding weight 1.000000 for bone 5 ("Bip01 R Finger31")
+Adding weight 1.000000 for bone 5 ("Bip01 R Finger31")
+Adding weight 1.000000 for bone 5 ("Bip01 R Finger31")
+Adding weight 1.000000 for bone 7 ("Bip01 R Finger32")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 5 ("Bip01 R Finger31")
+Adding weight 1.000000 for bone 7 ("Bip01 R Finger32")
+Adding weight 1.000000 for bone 7 ("Bip01 R Finger32")
+Adding weight 1.000000 for bone 7 ("Bip01 R Finger32")
+Adding weight 1.000000 for bone 7 ("Bip01 R Finger32")
+Adding weight 1.000000 for bone 7 ("Bip01 R Finger32")
+Adding weight 1.000000 for bone 7 ("Bip01 R Finger32")
+Adding weight 1.000000 for bone 7 ("Bip01 R Finger32")
+Adding weight 1.000000 for bone 7 ("Bip01 R Finger32")
+Adding weight 1.000000 for bone 7 ("Bip01 R Finger32")
+Adding weight 1.000000 for bone 8 ("Bip01 R ForeTwist1")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 8 ("Bip01 R ForeTwist1")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 8 ("Bip01 R ForeTwist1")
+Adding weight 1.000000 for bone 8 ("Bip01 R ForeTwist1")
+Adding weight 1.000000 for bone 8 ("Bip01 R ForeTwist1")
+Adding weight 1.000000 for bone 8 ("Bip01 R ForeTwist1")
+Adding weight 1.000000 for bone 8 ("Bip01 R ForeTwist1")
+Adding weight 1.000000 for bone 8 ("Bip01 R ForeTwist1")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 8 ("Bip01 R ForeTwist1")
+Adding weight 1.000000 for bone 8 ("Bip01 R ForeTwist1")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 8 ("Bip01 R ForeTwist1")
+Adding weight 1.000000 for bone 8 ("Bip01 R ForeTwist1")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 8 ("Bip01 R ForeTwist1")
+Adding weight 1.000000 for bone 8 ("Bip01 R ForeTwist1")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 8 ("Bip01 R ForeTwist1")
+Adding weight 1.000000 for bone 8 ("Bip01 R ForeTwist1")
+Adding weight 1.000000 for bone 8 ("Bip01 R ForeTwist1")
+Adding weight 1.000000 for bone 8 ("Bip01 R ForeTwist1")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 8 ("Bip01 R ForeTwist1")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 7 ("Bip01 R Finger32")
+Adding weight 1.000000 for bone 7 ("Bip01 R Finger32")
+Adding weight 1.000000 for bone 7 ("Bip01 R Finger32")
+Adding weight 1.000000 for bone 7 ("Bip01 R Finger32")
+Adding weight 1.000000 for bone 7 ("Bip01 R Finger32")
+Adding weight 1.000000 for bone 7 ("Bip01 R Finger32")
+Adding weight 1.000000 for bone 7 ("Bip01 R Finger32")
+Adding weight 1.000000 for bone 7 ("Bip01 R Finger32")
+Adding weight 1.000000 for bone 5 ("Bip01 R Finger31")
+Adding weight 1.000000 for bone 5 ("Bip01 R Finger31")
+Adding weight 1.000000 for bone 5 ("Bip01 R Finger31")
+Adding weight 1.000000 for bone 7 ("Bip01 R Finger32")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 5 ("Bip01 R Finger31")
+Adding weight 1.000000 for bone 7 ("Bip01 R Finger32")
+Adding weight 1.000000 for bone 4 ("Bip01 R Finger42")
+Adding weight 1.000000 for bone 4 ("Bip01 R Finger42")
+Adding weight 1.000000 for bone 2 ("Bip01 R Finger41")
+Adding weight 1.000000 for bone 2 ("Bip01 R Finger41")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 2 ("Bip01 R Finger41")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 2 ("Bip01 R Finger41")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 10 ("Bip01 R Finger21")
+Adding weight 1.000000 for bone 10 ("Bip01 R Finger21")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 11 ("Bip01 R Finger1")
+Adding weight 1.000000 for bone 12 ("Bip01 R Finger11")
+Adding weight 1.000000 for bone 12 ("Bip01 R Finger11")
+Adding weight 1.000000 for bone 12 ("Bip01 R Finger11")
+Adding weight 1.000000 for bone 12 ("Bip01 R Finger11")
+Adding weight 1.000000 for bone 13 ("Bip01 R Finger12")
+Adding weight 1.000000 for bone 12 ("Bip01 R Finger11")
+Adding weight 1.000000 for bone 13 ("Bip01 R Finger12")
+Adding weight 1.000000 for bone 13 ("Bip01 R Finger12")
+Adding weight 1.000000 for bone 13 ("Bip01 R Finger12")
+Adding weight 1.000000 for bone 13 ("Bip01 R Finger12")
+Adding weight 1.000000 for bone 12 ("Bip01 R Finger11")
+Adding weight 1.000000 for bone 12 ("Bip01 R Finger11")
+Adding weight 1.000000 for bone 13 ("Bip01 R Finger12")
+Adding weight 1.000000 for bone 12 ("Bip01 R Finger11")
+Adding weight 1.000000 for bone 12 ("Bip01 R Finger11")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 13 ("Bip01 R Finger12")
+Adding weight 1.000000 for bone 13 ("Bip01 R Finger12")
+Adding weight 1.000000 for bone 10 ("Bip01 R Finger21")
+Adding weight 1.000000 for bone 14 ("Bip01 R Finger22")
+Adding weight 1.000000 for bone 14 ("Bip01 R Finger22")
+Adding weight 1.000000 for bone 14 ("Bip01 R Finger22")
+Adding weight 1.000000 for bone 14 ("Bip01 R Finger22")
+Adding weight 1.000000 for bone 14 ("Bip01 R Finger22")
+Adding weight 1.000000 for bone 14 ("Bip01 R Finger22")
+Adding weight 1.000000 for bone 14 ("Bip01 R Finger22")
+Adding weight 1.000000 for bone 14 ("Bip01 R Finger22")
+Adding weight 1.000000 for bone 14 ("Bip01 R Finger22")
+Adding weight 1.000000 for bone 14 ("Bip01 R Finger22")
+Adding weight 1.000000 for bone 10 ("Bip01 R Finger21")
+Adding weight 1.000000 for bone 10 ("Bip01 R Finger21")
+Adding weight 1.000000 for bone 10 ("Bip01 R Finger21")
+Adding weight 1.000000 for bone 10 ("Bip01 R Finger21")
+Adding weight 1.000000 for bone 10 ("Bip01 R Finger21")
+Adding weight 1.000000 for bone 10 ("Bip01 R Finger21")
+Adding weight 1.000000 for bone 10 ("Bip01 R Finger21")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 15 ("Bip01 R Finger2")
+Adding weight 1.000000 for bone 15 ("Bip01 R Finger2")
+Adding weight 1.000000 for bone 10 ("Bip01 R Finger21")
+Adding weight 1.000000 for bone 14 ("Bip01 R Finger22")
+Adding weight 1.000000 for bone 14 ("Bip01 R Finger22")
+Adding weight 1.000000 for bone 14 ("Bip01 R Finger22")
+Adding weight 1.000000 for bone 14 ("Bip01 R Finger22")
+Adding weight 1.000000 for bone 14 ("Bip01 R Finger22")
+Adding weight 1.000000 for bone 14 ("Bip01 R Finger22")
+Adding weight 1.000000 for bone 14 ("Bip01 R Finger22")
+Adding weight 1.000000 for bone 14 ("Bip01 R Finger22")
+Adding weight 1.000000 for bone 14 ("Bip01 R Finger22")
+Adding weight 1.000000 for bone 14 ("Bip01 R Finger22")
+Adding weight 1.000000 for bone 10 ("Bip01 R Finger21")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 11 ("Bip01 R Finger1")
+Adding weight 1.000000 for bone 12 ("Bip01 R Finger11")
+Adding weight 1.000000 for bone 12 ("Bip01 R Finger11")
+Adding weight 1.000000 for bone 12 ("Bip01 R Finger11")
+Adding weight 1.000000 for bone 12 ("Bip01 R Finger11")
+Adding weight 1.000000 for bone 12 ("Bip01 R Finger11")
+Adding weight 1.000000 for bone 12 ("Bip01 R Finger11")
+Adding weight 1.000000 for bone 12 ("Bip01 R Finger11")
+Adding weight 1.000000 for bone 12 ("Bip01 R Finger11")
+Adding weight 1.000000 for bone 12 ("Bip01 R Finger11")
+Adding weight 1.000000 for bone 13 ("Bip01 R Finger12")
+Adding weight 1.000000 for bone 13 ("Bip01 R Finger12")
+Adding weight 1.000000 for bone 13 ("Bip01 R Finger12")
+Adding weight 1.000000 for bone 16 ("Bip01 R Finger02")
+Adding weight 1.000000 for bone 17 ("Bip01 R Finger01")
+Adding weight 1.000000 for bone 16 ("Bip01 R Finger02")
+Adding weight 1.000000 for bone 16 ("Bip01 R Finger02")
+Adding weight 1.000000 for bone 16 ("Bip01 R Finger02")
+Adding weight 1.000000 for bone 16 ("Bip01 R Finger02")
+Adding weight 1.000000 for bone 16 ("Bip01 R Finger02")
+Adding weight 1.000000 for bone 16 ("Bip01 R Finger02")
+Adding weight 1.000000 for bone 16 ("Bip01 R Finger02")
+Adding weight 1.000000 for bone 16 ("Bip01 R Finger02")
+Adding weight 1.000000 for bone 16 ("Bip01 R Finger02")
+Adding weight 1.000000 for bone 16 ("Bip01 R Finger02")
+Adding weight 1.000000 for bone 16 ("Bip01 R Finger02")
+Adding weight 1.000000 for bone 16 ("Bip01 R Finger02")
+Adding weight 1.000000 for bone 17 ("Bip01 R Finger01")
+Adding weight 1.000000 for bone 17 ("Bip01 R Finger01")
+Adding weight 1.000000 for bone 1 ("Bip01 R Finger0")
+Adding weight 1.000000 for bone 17 ("Bip01 R Finger01")
+Adding weight 1.000000 for bone 1 ("Bip01 R Finger0")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 1 ("Bip01 R Finger0")
+Adding weight 1.000000 for bone 17 ("Bip01 R Finger01")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 17 ("Bip01 R Finger01")
+Adding weight 1.000000 for bone 17 ("Bip01 R Finger01")
+Adding weight 1.000000 for bone 1 ("Bip01 R Finger0")
+Adding weight 1.000000 for bone 1 ("Bip01 R Finger0")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 1 ("Bip01 R Finger0")
+Adding weight 1.000000 for bone 17 ("Bip01 R Finger01")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 9 ("Bip01 R Forearm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 8 ("Bip01 R ForeTwist1")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 16 ("Bip01 R Finger02")
+Adding weight 1.000000 for bone 17 ("Bip01 R Finger01")
+Adding weight 1.000000 for bone 16 ("Bip01 R Finger02")
+Adding weight 1.000000 for bone 16 ("Bip01 R Finger02")
+Adding weight 1.000000 for bone 17 ("Bip01 R Finger01")
+Adding weight 1.000000 for bone 17 ("Bip01 R Finger01")
+Adding weight 1.000000 for bone 17 ("Bip01 R Finger01")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 4 ("Bip01 R Finger42")
+Adding weight 1.000000 for bone 4 ("Bip01 R Finger42")
+Adding weight 1.000000 for bone 4 ("Bip01 R Finger42")
+Adding weight 1.000000 for bone 4 ("Bip01 R Finger42")
+Adding weight 1.000000 for bone 4 ("Bip01 R Finger42")
+Adding weight 1.000000 for bone 4 ("Bip01 R Finger42")
+Adding weight 1.000000 for bone 4 ("Bip01 R Finger42")
+Adding weight 1.000000 for bone 4 ("Bip01 R Finger42")
+Adding weight 1.000000 for bone 4 ("Bip01 R Finger42")
+Adding weight 1.000000 for bone 4 ("Bip01 R Finger42")
+Adding weight 1.000000 for bone 4 ("Bip01 R Finger42")
+Adding weight 1.000000 for bone 4 ("Bip01 R Finger42")
+Adding weight 1.000000 for bone 4 ("Bip01 R Finger42")
+Adding weight 1.000000 for bone 4 ("Bip01 R Finger42")
+Adding weight 1.000000 for bone 4 ("Bip01 R Finger42")
+Adding weight 1.000000 for bone 4 ("Bip01 R Finger42")
+Adding weight 1.000000 for bone 4 ("Bip01 R Finger42")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 0 ("Bip01 R Hand")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 18 ("Bip01 R UpperArm")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 20 ("Bip01 L Finger4")
+Adding weight 1.000000 for bone 21 ("Bip01 L Finger41")
+Adding weight 1.000000 for bone 21 ("Bip01 L Finger41")
+Adding weight 1.000000 for bone 21 ("Bip01 L Finger41")
+Adding weight 1.000000 for bone 21 ("Bip01 L Finger41")
+Adding weight 1.000000 for bone 21 ("Bip01 L Finger41")
+Adding weight 1.000000 for bone 20 ("Bip01 L Finger4")
+Adding weight 1.000000 for bone 21 ("Bip01 L Finger41")
+Adding weight 1.000000 for bone 21 ("Bip01 L Finger41")
+Adding weight 1.000000 for bone 22 ("Bip01 L Finger42")
+Adding weight 1.000000 for bone 21 ("Bip01 L Finger41")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 23 ("Bip01 L Finger31")
+Adding weight 1.000000 for bone 23 ("Bip01 L Finger31")
+Adding weight 1.000000 for bone 23 ("Bip01 L Finger31")
+Adding weight 1.000000 for bone 24 ("Bip01 L Finger3")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 24 ("Bip01 L Finger3")
+Adding weight 1.000000 for bone 23 ("Bip01 L Finger31")
+Adding weight 1.000000 for bone 23 ("Bip01 L Finger31")
+Adding weight 1.000000 for bone 23 ("Bip01 L Finger31")
+Adding weight 1.000000 for bone 23 ("Bip01 L Finger31")
+Adding weight 1.000000 for bone 25 ("Bip01 L Finger32")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 23 ("Bip01 L Finger31")
+Adding weight 1.000000 for bone 25 ("Bip01 L Finger32")
+Adding weight 1.000000 for bone 25 ("Bip01 L Finger32")
+Adding weight 1.000000 for bone 25 ("Bip01 L Finger32")
+Adding weight 1.000000 for bone 25 ("Bip01 L Finger32")
+Adding weight 1.000000 for bone 25 ("Bip01 L Finger32")
+Adding weight 1.000000 for bone 25 ("Bip01 L Finger32")
+Adding weight 1.000000 for bone 25 ("Bip01 L Finger32")
+Adding weight 1.000000 for bone 25 ("Bip01 L Finger32")
+Adding weight 1.000000 for bone 25 ("Bip01 L Finger32")
+Adding weight 1.000000 for bone 26 ("Bip01 L ForeTwist1")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 26 ("Bip01 L ForeTwist1")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 26 ("Bip01 L ForeTwist1")
+Adding weight 1.000000 for bone 26 ("Bip01 L ForeTwist1")
+Adding weight 1.000000 for bone 26 ("Bip01 L ForeTwist1")
+Adding weight 1.000000 for bone 26 ("Bip01 L ForeTwist1")
+Adding weight 1.000000 for bone 26 ("Bip01 L ForeTwist1")
+Adding weight 1.000000 for bone 26 ("Bip01 L ForeTwist1")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 26 ("Bip01 L ForeTwist1")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 26 ("Bip01 L ForeTwist1")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 26 ("Bip01 L ForeTwist1")
+Adding weight 1.000000 for bone 26 ("Bip01 L ForeTwist1")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 26 ("Bip01 L ForeTwist1")
+Adding weight 1.000000 for bone 26 ("Bip01 L ForeTwist1")
+Adding weight 1.000000 for bone 26 ("Bip01 L ForeTwist1")
+Adding weight 1.000000 for bone 26 ("Bip01 L ForeTwist1")
+Adding weight 1.000000 for bone 26 ("Bip01 L ForeTwist1")
+Adding weight 1.000000 for bone 26 ("Bip01 L ForeTwist1")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 26 ("Bip01 L ForeTwist1")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 25 ("Bip01 L Finger32")
+Adding weight 1.000000 for bone 25 ("Bip01 L Finger32")
+Adding weight 1.000000 for bone 25 ("Bip01 L Finger32")
+Adding weight 1.000000 for bone 25 ("Bip01 L Finger32")
+Adding weight 1.000000 for bone 25 ("Bip01 L Finger32")
+Adding weight 1.000000 for bone 25 ("Bip01 L Finger32")
+Adding weight 1.000000 for bone 25 ("Bip01 L Finger32")
+Adding weight 1.000000 for bone 25 ("Bip01 L Finger32")
+Adding weight 1.000000 for bone 23 ("Bip01 L Finger31")
+Adding weight 1.000000 for bone 23 ("Bip01 L Finger31")
+Adding weight 1.000000 for bone 25 ("Bip01 L Finger32")
+Adding weight 1.000000 for bone 23 ("Bip01 L Finger31")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 23 ("Bip01 L Finger31")
+Adding weight 1.000000 for bone 25 ("Bip01 L Finger32")
+Adding weight 1.000000 for bone 22 ("Bip01 L Finger42")
+Adding weight 1.000000 for bone 21 ("Bip01 L Finger41")
+Adding weight 1.000000 for bone 21 ("Bip01 L Finger41")
+Adding weight 1.000000 for bone 22 ("Bip01 L Finger42")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 21 ("Bip01 L Finger41")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 21 ("Bip01 L Finger41")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 28 ("Bip01 L Finger21")
+Adding weight 1.000000 for bone 28 ("Bip01 L Finger21")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 29 ("Bip01 L Finger11")
+Adding weight 1.000000 for bone 30 ("Bip01 L Finger1")
+Adding weight 1.000000 for bone 29 ("Bip01 L Finger11")
+Adding weight 1.000000 for bone 31 ("Bip01 L Finger12")
+Adding weight 1.000000 for bone 31 ("Bip01 L Finger12")
+Adding weight 1.000000 for bone 31 ("Bip01 L Finger12")
+Adding weight 1.000000 for bone 31 ("Bip01 L Finger12")
+Adding weight 1.000000 for bone 31 ("Bip01 L Finger12")
+Adding weight 1.000000 for bone 31 ("Bip01 L Finger12")
+Adding weight 1.000000 for bone 31 ("Bip01 L Finger12")
+Adding weight 1.000000 for bone 31 ("Bip01 L Finger12")
+Adding weight 1.000000 for bone 31 ("Bip01 L Finger12")
+Adding weight 1.000000 for bone 29 ("Bip01 L Finger11")
+Adding weight 1.000000 for bone 31 ("Bip01 L Finger12")
+Adding weight 1.000000 for bone 31 ("Bip01 L Finger12")
+Adding weight 1.000000 for bone 29 ("Bip01 L Finger11")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 31 ("Bip01 L Finger12")
+Adding weight 1.000000 for bone 31 ("Bip01 L Finger12")
+Adding weight 1.000000 for bone 28 ("Bip01 L Finger21")
+Adding weight 1.000000 for bone 32 ("Bip01 L Finger22")
+Adding weight 1.000000 for bone 32 ("Bip01 L Finger22")
+Adding weight 1.000000 for bone 32 ("Bip01 L Finger22")
+Adding weight 1.000000 for bone 32 ("Bip01 L Finger22")
+Adding weight 1.000000 for bone 32 ("Bip01 L Finger22")
+Adding weight 1.000000 for bone 32 ("Bip01 L Finger22")
+Adding weight 1.000000 for bone 32 ("Bip01 L Finger22")
+Adding weight 1.000000 for bone 32 ("Bip01 L Finger22")
+Adding weight 1.000000 for bone 32 ("Bip01 L Finger22")
+Adding weight 1.000000 for bone 32 ("Bip01 L Finger22")
+Adding weight 1.000000 for bone 28 ("Bip01 L Finger21")
+Adding weight 1.000000 for bone 28 ("Bip01 L Finger21")
+Adding weight 1.000000 for bone 28 ("Bip01 L Finger21")
+Adding weight 1.000000 for bone 28 ("Bip01 L Finger21")
+Adding weight 1.000000 for bone 28 ("Bip01 L Finger21")
+Adding weight 1.000000 for bone 28 ("Bip01 L Finger21")
+Adding weight 1.000000 for bone 28 ("Bip01 L Finger21")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 33 ("Bip01 L Finger2")
+Adding weight 1.000000 for bone 33 ("Bip01 L Finger2")
+Adding weight 1.000000 for bone 28 ("Bip01 L Finger21")
+Adding weight 1.000000 for bone 32 ("Bip01 L Finger22")
+Adding weight 1.000000 for bone 32 ("Bip01 L Finger22")
+Adding weight 1.000000 for bone 32 ("Bip01 L Finger22")
+Adding weight 1.000000 for bone 32 ("Bip01 L Finger22")
+Adding weight 1.000000 for bone 32 ("Bip01 L Finger22")
+Adding weight 1.000000 for bone 32 ("Bip01 L Finger22")
+Adding weight 1.000000 for bone 32 ("Bip01 L Finger22")
+Adding weight 1.000000 for bone 32 ("Bip01 L Finger22")
+Adding weight 1.000000 for bone 32 ("Bip01 L Finger22")
+Adding weight 1.000000 for bone 32 ("Bip01 L Finger22")
+Adding weight 1.000000 for bone 28 ("Bip01 L Finger21")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 30 ("Bip01 L Finger1")
+Adding weight 1.000000 for bone 29 ("Bip01 L Finger11")
+Adding weight 1.000000 for bone 29 ("Bip01 L Finger11")
+Adding weight 1.000000 for bone 29 ("Bip01 L Finger11")
+Adding weight 1.000000 for bone 29 ("Bip01 L Finger11")
+Adding weight 1.000000 for bone 29 ("Bip01 L Finger11")
+Adding weight 1.000000 for bone 29 ("Bip01 L Finger11")
+Adding weight 1.000000 for bone 29 ("Bip01 L Finger11")
+Adding weight 1.000000 for bone 31 ("Bip01 L Finger12")
+Adding weight 1.000000 for bone 31 ("Bip01 L Finger12")
+Adding weight 1.000000 for bone 31 ("Bip01 L Finger12")
+Adding weight 1.000000 for bone 31 ("Bip01 L Finger12")
+Adding weight 1.000000 for bone 31 ("Bip01 L Finger12")
+Adding weight 1.000000 for bone 34 ("Bip01 L Finger02")
+Adding weight 1.000000 for bone 34 ("Bip01 L Finger02")
+Adding weight 1.000000 for bone 35 ("Bip01 L Finger01")
+Adding weight 1.000000 for bone 35 ("Bip01 L Finger01")
+Adding weight 1.000000 for bone 34 ("Bip01 L Finger02")
+Adding weight 1.000000 for bone 34 ("Bip01 L Finger02")
+Adding weight 1.000000 for bone 34 ("Bip01 L Finger02")
+Adding weight 1.000000 for bone 34 ("Bip01 L Finger02")
+Adding weight 1.000000 for bone 34 ("Bip01 L Finger02")
+Adding weight 1.000000 for bone 34 ("Bip01 L Finger02")
+Adding weight 1.000000 for bone 34 ("Bip01 L Finger02")
+Adding weight 1.000000 for bone 34 ("Bip01 L Finger02")
+Adding weight 1.000000 for bone 34 ("Bip01 L Finger02")
+Adding weight 1.000000 for bone 34 ("Bip01 L Finger02")
+Adding weight 1.000000 for bone 35 ("Bip01 L Finger01")
+Adding weight 1.000000 for bone 36 ("Bip01 L Finger0")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 35 ("Bip01 L Finger01")
+Adding weight 1.000000 for bone 36 ("Bip01 L Finger0")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 35 ("Bip01 L Finger01")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 35 ("Bip01 L Finger01")
+Adding weight 1.000000 for bone 36 ("Bip01 L Finger0")
+Adding weight 1.000000 for bone 36 ("Bip01 L Finger0")
+Adding weight 1.000000 for bone 35 ("Bip01 L Finger01")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 36 ("Bip01 L Finger0")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 35 ("Bip01 L Finger01")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 27 ("Bip01 L Forearm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 26 ("Bip01 L ForeTwist1")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 34 ("Bip01 L Finger02")
+Adding weight 1.000000 for bone 35 ("Bip01 L Finger01")
+Adding weight 1.000000 for bone 34 ("Bip01 L Finger02")
+Adding weight 1.000000 for bone 35 ("Bip01 L Finger01")
+Adding weight 1.000000 for bone 35 ("Bip01 L Finger01")
+Adding weight 1.000000 for bone 35 ("Bip01 L Finger01")
+Adding weight 1.000000 for bone 35 ("Bip01 L Finger01")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 22 ("Bip01 L Finger42")
+Adding weight 1.000000 for bone 22 ("Bip01 L Finger42")
+Adding weight 1.000000 for bone 22 ("Bip01 L Finger42")
+Adding weight 1.000000 for bone 22 ("Bip01 L Finger42")
+Adding weight 1.000000 for bone 22 ("Bip01 L Finger42")
+Adding weight 1.000000 for bone 22 ("Bip01 L Finger42")
+Adding weight 1.000000 for bone 22 ("Bip01 L Finger42")
+Adding weight 1.000000 for bone 22 ("Bip01 L Finger42")
+Adding weight 1.000000 for bone 22 ("Bip01 L Finger42")
+Adding weight 1.000000 for bone 22 ("Bip01 L Finger42")
+Adding weight 1.000000 for bone 22 ("Bip01 L Finger42")
+Adding weight 1.000000 for bone 22 ("Bip01 L Finger42")
+Adding weight 1.000000 for bone 22 ("Bip01 L Finger42")
+Adding weight 1.000000 for bone 22 ("Bip01 L Finger42")
+Adding weight 1.000000 for bone 22 ("Bip01 L Finger42")
+Adding weight 1.000000 for bone 22 ("Bip01 L Finger42")
+Adding weight 1.000000 for bone 22 ("Bip01 L Finger42")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 19 ("Bip01 L Hand")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Adding weight 1.000000 for bone 37 ("Bip01 L UpperArm")
+Skin "hand0" with parent "ROOT" added to entry list
+Processing Node Bounds with parent ROOT
+Bounding box found
+Processing Node __mainTree with parent ROOT
+Found subtree starting at Node "__mainTree"
+
+Second pass:  put shape structure together...
+
+Adding detail named "detail0" of size 0 to subtree "__mainTree".
+Adding node "__mainTree" with parent "__mainTree" to subtree rooted on node "__mainTree".
+Adding node "__meshes" with parent "__mainTree" to subtree rooted on node "__mainTree".
+Adding node "Bip01" with parent "__meshes" to subtree rooted on node "__mainTree".
+Adding node "Bip01 Spine" with parent "Bip01" to subtree rooted on node "__mainTree".
+Adding node "Bip01 Neck" with parent "Bip01 Spine" to subtree rooted on node "__mainTree".
+Adding node "Bip01 Head" with parent "Bip01 Neck" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Clavicle" with parent "Bip01 Neck" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L UpperArm" with parent "Bip01 L Clavicle" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Forearm" with parent "Bip01 L UpperArm" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Hand" with parent "Bip01 L Forearm" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Finger0" with parent "Bip01 L Hand" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Finger01" with parent "Bip01 L Finger0" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Finger02" with parent "Bip01 L Finger01" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Finger1" with parent "Bip01 L Hand" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Finger11" with parent "Bip01 L Finger1" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Finger12" with parent "Bip01 L Finger11" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Finger2" with parent "Bip01 L Hand" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Finger21" with parent "Bip01 L Finger2" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Finger22" with parent "Bip01 L Finger21" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Finger3" with parent "Bip01 L Hand" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Finger31" with parent "Bip01 L Finger3" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Finger32" with parent "Bip01 L Finger31" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Finger4" with parent "Bip01 L Hand" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Finger41" with parent "Bip01 L Finger4" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Finger42" with parent "Bip01 L Finger41" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L ForeTwist1" with parent "Bip01 L Forearm" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Clavicle" with parent "Bip01 Neck" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R UpperArm" with parent "Bip01 R Clavicle" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Forearm" with parent "Bip01 R UpperArm" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Hand" with parent "Bip01 R Forearm" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Finger0" with parent "Bip01 R Hand" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Finger01" with parent "Bip01 R Finger0" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Finger02" with parent "Bip01 R Finger01" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Finger1" with parent "Bip01 R Hand" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Finger11" with parent "Bip01 R Finger1" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Finger12" with parent "Bip01 R Finger11" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Finger2" with parent "Bip01 R Hand" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Finger21" with parent "Bip01 R Finger2" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Finger22" with parent "Bip01 R Finger21" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Finger3" with parent "Bip01 R Hand" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Finger31" with parent "Bip01 R Finger3" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Finger32" with parent "Bip01 R Finger31" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Finger4" with parent "Bip01 R Hand" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Finger41" with parent "Bip01 R Finger4" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Finger42" with parent "Bip01 R Finger41" to subtree rooted on node "__mainTree".
+Adding node "Bone01" with parent "Bip01 R Hand" to subtree rooted on node "__mainTree".
+Adding node "Bone02" with parent "Bone01" to subtree rooted on node "__mainTree".
+Adding node "knife0" with parent "Bone01" to subtree rooted on node "__mainTree".
+Attaching object to node.
+Adding object named "knife".
+Adding mesh of size 0 to object "knife".
+Adding node "Bip01 R ForeTwist1" with parent "Bip01 R Forearm" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Thigh" with parent "Bip01" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Calf" with parent "Bip01 L Thigh" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Foot" with parent "Bip01 L Calf" to subtree rooted on node "__mainTree".
+Adding node "Bip01 L Toe0" with parent "Bip01 L Foot" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Thigh" with parent "Bip01" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Calf" with parent "Bip01 R Thigh" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Foot" with parent "Bip01 R Calf" to subtree rooted on node "__mainTree".
+Adding node "Bip01 R Toe0" with parent "Bip01 R Foot" to subtree rooted on node "__mainTree".
+Adding node "Root" with parent "__meshes" to subtree rooted on node "__mainTree".
+Adding skin object from skin "hand0" to bone "Bip01 R Hand" (0).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger0" (1).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger41" (2).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger4" (3).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger42" (4).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger31" (5).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger3" (6).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger32" (7).
+Adding skin object from skin "hand0" to bone "Bip01 R ForeTwist1" (8).
+Adding skin object from skin "hand0" to bone "Bip01 R Forearm" (9).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger21" (10).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger1" (11).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger11" (12).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger12" (13).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger22" (14).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger2" (15).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger02" (16).
+Adding skin object from skin "hand0" to bone "Bip01 R Finger01" (17).
+Adding skin object from skin "hand0" to bone "Bip01 R UpperArm" (18).
+Adding skin object from skin "hand0" to bone "Bip01 L Hand" (19).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger4" (20).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger41" (21).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger42" (22).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger31" (23).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger3" (24).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger32" (25).
+Adding skin object from skin "hand0" to bone "Bip01 L ForeTwist1" (26).
+Adding skin object from skin "hand0" to bone "Bip01 L Forearm" (27).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger21" (28).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger11" (29).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger1" (30).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger12" (31).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger22" (32).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger2" (33).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger02" (34).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger01" (35).
+Adding skin object from skin "hand0" to bone "Bip01 L Finger0" (36).
+Adding skin object from skin "hand0" to bone "Bip01 L UpperArm" (37).
+Adding object named "hand".
+Adding mesh of size 0 to object "hand".
+Generating faces for skin "hand0".
+Adding object named "Bone::Bip01 L UpperArm".
+Object is bone
+Adding object named "Bone::Bip01 L Forearm".
+Object is bone
+Adding object named "Bone::Bip01 L Hand".
+Object is bone
+Adding object named "Bone::Bip01 L Finger0".
+Object is bone
+Adding object named "Bone::Bip01 L Finger01".
+Object is bone
+Adding object named "Bone::Bip01 L Finger02".
+Object is bone
+Adding object named "Bone::Bip01 L Finger1".
+Object is bone
+Adding object named "Bone::Bip01 L Finger11".
+Object is bone
+Adding object named "Bone::Bip01 L Finger12".
+Object is bone
+Adding object named "Bone::Bip01 L Finger2".
+Object is bone
+Adding object named "Bone::Bip01 L Finger21".
+Object is bone
+Adding object named "Bone::Bip01 L Finger22".
+Object is bone
+Adding object named "Bone::Bip01 L Finger3".
+Object is bone
+Adding object named "Bone::Bip01 L Finger31".
+Object is bone
+Adding object named "Bone::Bip01 L Finger32".
+Object is bone
+Adding object named "Bone::Bip01 L Finger4".
+Object is bone
+Adding object named "Bone::Bip01 L Finger41".
+Object is bone
+Adding object named "Bone::Bip01 L Finger42".
+Object is bone
+Adding object named "Bone::Bip01 L ForeTwist1".
+Object is bone
+Adding object named "Bone::Bip01 R UpperArm".
+Object is bone
+Adding object named "Bone::Bip01 R Forearm".
+Object is bone
+Adding object named "Bone::Bip01 R Hand".
+Object is bone
+Adding object named "Bone::Bip01 R Finger0".
+Object is bone
+Adding object named "Bone::Bip01 R Finger01".
+Object is bone
+Adding object named "Bone::Bip01 R Finger02".
+Object is bone
+Adding object named "Bone::Bip01 R Finger1".
+Object is bone
+Adding object named "Bone::Bip01 R Finger11".
+Object is bone
+Adding object named "Bone::Bip01 R Finger12".
+Object is bone
+Adding object named "Bone::Bip01 R Finger2".
+Object is bone
+Adding object named "Bone::Bip01 R Finger21".
+Object is bone
+Adding object named "Bone::Bip01 R Finger22".
+Object is bone
+Adding object named "Bone::Bip01 R Finger3".
+Object is bone
+Adding object named "Bone::Bip01 R Finger31".
+Object is bone
+Adding object named "Bone::Bip01 R Finger32".
+Object is bone
+Adding object named "Bone::Bip01 R Finger4".
+Object is bone
+Adding object named "Bone::Bip01 R Finger41".
+Object is bone
+Adding object named "Bone::Bip01 R Finger42".
+Object is bone
+Adding object named "Bone::Bip01 R ForeTwist1".
+Object is bone
+
+Third pass:  Collapsing unneeded nodes...
+
+Removing node "__mainTree"
+Removing node "__meshes"
+
+Add default object states...
+
+Adding object state to 1 detail level(s) of mesh "knife".
+Adding frame.
+Object is visible.
+Object offset transform for mesh dl=0:
+    scale:            x=1.00000, y=1.00000, z=1.00000
+    stretch rotation: x=-0.03819, y=0.14414, z=-0.25378, w=0.95570
+    translation:      x=-0.09703, y=1.02416, z=0.54628
+    actual rotation:  x=0.61921, y=0.73791, z=-0.18414, w=0.19534
+---------------------------------
+Adding object state to 1 detail level(s) of mesh "hand".
+Adding frame.
+Object is visible.
+---------------------------------
+
+Add default node states...
+
+Adding node rotation at time 0.000000 for node "Bip01".
+  rotation:     x=0.50000, y=0.50000, z=0.50000, w=0.50000
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01".
+  translation:     x=0.00000, y=-0.00000, z=0.96991
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 Spine".
+  rotation:     x=0.50021, y=-0.49979, z=-0.49979, w=0.50021
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 Spine".
+  translation:     x=0.00036, y=0.10049, z=-0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 Neck".
+  rotation:     x=0.00000, y=0.01500, z=-0.00000, w=0.99989
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 Neck".
+  translation:     x=-0.55753, y=0.00000, z=-0.00013
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 Head".
+  rotation:     x=-0.00000, y=-0.01540, z=0.00000, w=0.99988
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 Head".
+  translation:     x=-0.06553, y=-0.00000, z=-0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Clavicle".
+  rotation:     x=-0.63291, y=0.77408, z=-0.00975, w=0.01192
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Clavicle".
+  translation:     x=0.10311, y=0.09097, z=0.00323
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L UpperArm".
+  rotation:     x=-0.03664, y=0.04088, z=0.32175, w=0.94523
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L UpperArm".
+  translation:     x=-0.10960, y=-0.00000, z=-0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Forearm".
+  rotation:     x=0.00000, y=-0.09964, z=0.00000, w=0.99502
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Forearm".
+  translation:     x=-0.26214, y=-0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Hand".
+  rotation:     x=0.65593, y=-0.02500, z=-0.02178, w=0.75409
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Hand".
+  translation:     x=-0.29251, y=0.00000, z=-0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Finger0".
+  rotation:     x=-0.79925, y=-0.12923, z=0.25379, w=0.52924
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Finger0".
+  translation:     x=-0.04379, y=-0.03553, z=0.03448
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Finger01".
+  rotation:     x=-0.00000, y=0.07092, z=0.00000, w=0.99748
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Finger01".
+  translation:     x=-0.04596, y=-0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Finger02".
+  rotation:     x=-0.00000, y=-0.00000, z=0.00000, w=1.00000
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Finger02".
+  translation:     x=-0.02642, y=0.00000, z=-0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Finger1".
+  rotation:     x=-0.03263, y=0.08513, z=0.05157, w=0.99450
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Finger1".
+  translation:     x=-0.09579, y=-0.03113, z=0.00677
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Finger11".
+  rotation:     x=0.00000, y=0.12166, z=0.00000, w=0.99257
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Finger11".
+  translation:     x=-0.04214, y=0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Finger12".
+  rotation:     x=0.00000, y=0.08283, z=-0.00000, w=0.99656
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Finger12".
+  translation:     x=-0.02621, y=0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Finger2".
+  rotation:     x=0.00222, y=0.13983, z=0.01299, w=0.99009
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Finger2".
+  translation:     x=-0.09787, y=-0.01063, z=-0.00074
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Finger21".
+  rotation:     x=-0.00000, y=0.07387, z=0.00000, w=0.99727
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Finger21".
+  translation:     x=-0.04224, y=0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Finger22".
+  rotation:     x=-0.00000, y=0.06487, z=0.00000, w=0.99789
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Finger22".
+  translation:     x=-0.03139, y=-0.00000, z=-0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Finger3".
+  rotation:     x=-0.00223, y=0.14028, z=-0.00945, w=0.99006
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Finger3".
+  translation:     x=-0.09643, y=0.01110, z=-0.00100
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Finger31".
+  rotation:     x=-0.00000, y=0.09977, z=0.00000, w=0.99501
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Finger31".
+  translation:     x=-0.03361, y=-0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Finger32".
+  rotation:     x=0.00000, y=0.08647, z=0.00000, w=0.99625
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Finger32".
+  translation:     x=-0.03321, y=0.00000, z=-0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Finger4".
+  rotation:     x=0.05168, y=0.12699, z=-0.02596, w=0.99022
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Finger4".
+  translation:     x=-0.09270, y=0.03230, z=0.00366
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Finger41".
+  rotation:     x=-0.00000, y=0.07888, z=0.00000, w=0.99688
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Finger41".
+  translation:     x=-0.02767, y=-0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Finger42".
+  rotation:     x=-0.00000, y=0.15327, z=-0.00000, w=0.98818
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Finger42".
+  translation:     x=-0.02129, y=0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L ForeTwist1".
+  rotation:     x=-0.04632, y=-0.00000, z=-0.00000, w=0.99893
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L ForeTwist1".
+  translation:     x=-0.14625, y=-0.00000, z=-0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Clavicle".
+  rotation:     x=0.63291, y=0.77408, z=0.00975, w=0.01192
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Clavicle".
+  translation:     x=0.10311, y=-0.09097, z=0.00323
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R UpperArm".
+  rotation:     x=0.03664, y=0.04088, z=-0.32175, w=0.94523
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R UpperArm".
+  translation:     x=-0.10960, y=-0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Forearm".
+  rotation:     x=0.00000, y=-0.09964, z=-0.00000, w=0.99502
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Forearm".
+  translation:     x=-0.26214, y=-0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Hand".
+  rotation:     x=-0.65593, y=-0.02500, z=0.02178, w=0.75409
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Hand".
+  translation:     x=-0.29251, y=-0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Finger0".
+  rotation:     x=0.79925, y=-0.12923, z=-0.25379, w=0.52924
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Finger0".
+  translation:     x=-0.04379, y=0.03553, z=0.03448
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Finger01".
+  rotation:     x=-0.00000, y=0.07092, z=0.00000, w=0.99748
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Finger01".
+  translation:     x=-0.04596, y=0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Finger02".
+  rotation:     x=-0.00000, y=-0.00000, z=0.00000, w=1.00000
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Finger02".
+  translation:     x=-0.02642, y=-0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Finger1".
+  rotation:     x=0.03263, y=0.08513, z=-0.05157, w=0.99450
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Finger1".
+  translation:     x=-0.09579, y=0.03113, z=0.00677
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Finger11".
+  rotation:     x=-0.00000, y=0.12166, z=0.00000, w=0.99257
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Finger11".
+  translation:     x=-0.04214, y=-0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Finger12".
+  rotation:     x=0.00000, y=0.08283, z=-0.00000, w=0.99656
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Finger12".
+  translation:     x=-0.02621, y=0.00000, z=-0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Finger2".
+  rotation:     x=-0.00222, y=0.13983, z=-0.01299, w=0.99009
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Finger2".
+  translation:     x=-0.09787, y=0.01063, z=-0.00074
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Finger21".
+  rotation:     x=0.00000, y=0.07387, z=-0.00000, w=0.99727
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Finger21".
+  translation:     x=-0.04224, y=0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Finger22".
+  rotation:     x=0.00000, y=0.06487, z=0.00000, w=0.99789
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Finger22".
+  translation:     x=-0.03139, y=-0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Finger3".
+  rotation:     x=0.00223, y=0.14028, z=0.00945, w=0.99006
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Finger3".
+  translation:     x=-0.09643, y=-0.01110, z=-0.00100
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Finger31".
+  rotation:     x=-0.00000, y=0.09977, z=0.00000, w=0.99501
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Finger31".
+  translation:     x=-0.03361, y=0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Finger32".
+  rotation:     x=-0.00000, y=0.08647, z=-0.00000, w=0.99625
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Finger32".
+  translation:     x=-0.03321, y=-0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Finger4".
+  rotation:     x=-0.05168, y=0.12699, z=0.02596, w=0.99022
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Finger4".
+  translation:     x=-0.09270, y=-0.03230, z=0.00366
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Finger41".
+  rotation:     x=0.00000, y=0.07888, z=0.00000, w=0.99688
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Finger41".
+  translation:     x=-0.02767, y=0.00000, z=-0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Finger42".
+  rotation:     x=-0.00000, y=0.15327, z=-0.00000, w=0.98818
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Finger42".
+  translation:     x=-0.02129, y=0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bone01".
+  rotation:     x=0.43977, y=-0.43267, z=-0.54009, w=0.57246
+---------------------------------
+Adding node translation at time 0.000000 for node "Bone01".
+  translation:     x=-0.09226, y=0.05044, z=0.02558
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bone02".
+  rotation:     x=0.00000, y=0.00000, z=0.00000, w=1.00000
+---------------------------------
+Adding node translation at time 0.000000 for node "Bone02".
+  translation:     x=-0.18495, y=0.00000, z=-0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "knife0".
+  rotation:     x=0.00000, y=0.00000, z=0.00000, w=1.00000
+---------------------------------
+Adding node translation at time 0.000000 for node "knife0".
+  translation:     x=-0.00000, y=0.00000, z=-0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R ForeTwist1".
+  rotation:     x=0.04632, y=-0.00000, z=-0.00000, w=0.99893
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R ForeTwist1".
+  translation:     x=-0.14625, y=0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Thigh".
+  rotation:     x=-0.52436, y=-0.47439, z=0.47439, w=0.52437
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Thigh".
+  translation:     x=0.00000, y=0.00000, z=0.08738
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Calf".
+  rotation:     x=0.00000, y=-0.09983, z=-0.00000, w=0.99500
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Calf".
+  translation:     x=-0.43689, y=-0.00000, z=-0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Foot".
+  rotation:     x=0.00000, y=0.04998, z=0.00000, w=0.99875
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Foot".
+  translation:     x=-0.43689, y=-0.00000, z=-0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 L Toe0".
+  rotation:     x=0.00000, y=0.70711, z=0.00000, w=0.70711
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 L Toe0".
+  translation:     x=-0.10049, y=-0.00000, z=0.12932
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Thigh".
+  rotation:     x=-0.52436, y=-0.47439, z=0.47439, w=0.52436
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Thigh".
+  translation:     x=0.00000, y=-0.00000, z=-0.08738
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Calf".
+  rotation:     x=-0.00000, y=-0.09983, z=0.00000, w=0.99500
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Calf".
+  translation:     x=-0.43689, y=0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Foot".
+  rotation:     x=-0.00000, y=0.04998, z=0.00000, w=0.99875
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Foot".
+  translation:     x=-0.43689, y=0.00000, z=0.00000
+---------------------------------
+Adding node rotation at time 0.000000 for node "Bip01 R Toe0".
+  rotation:     x=0.00000, y=0.70711, z=0.00000, w=0.70711
+---------------------------------
+Adding node translation at time 0.000000 for node "Bip01 R Toe0".
+  translation:     x=-0.10049, y=0.00000, z=0.12932
+---------------------------------
+Adding node rotation at time 0.000000 for node "Root".
+  rotation:     x=0.00000, y=0.00000, z=0.00000, w=1.00000
+---------------------------------
+Adding node translation at time 0.000000 for node "Root".
+  translation:     x=0.00000, y=0.00000, z=0.00000
+---------------------------------
+
+Adding 0 sequences...
+
+
+Generating skin "hand0".
+
+Vertex, bone, & weight data:
+
+Vertex 0
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 1
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 2
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 3
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 4
+  Bone 1, weight = 1.000, name =  "Bip01 R Finger0"
+Vertex 5
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 6
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 7
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 8
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 9
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 10
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 11
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 12
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 13
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 14
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 15
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 16
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 17
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 18
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 19
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 20
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 21
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 22
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 23
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 24
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 25
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 26
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 27
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 28
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 29
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 30
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 31
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 32
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 33
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 34
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 35
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 36
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 37
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 38
+  Bone 3, weight = 1.000, name =  "Bip01 R Finger4"
+Vertex 39
+  Bone 2, weight = 1.000, name =  "Bip01 R Finger41"
+Vertex 40
+  Bone 2, weight = 1.000, name =  "Bip01 R Finger41"
+Vertex 41
+  Bone 2, weight = 1.000, name =  "Bip01 R Finger41"
+Vertex 42
+  Bone 2, weight = 1.000, name =  "Bip01 R Finger41"
+Vertex 43
+  Bone 2, weight = 1.000, name =  "Bip01 R Finger41"
+Vertex 44
+  Bone 3, weight = 1.000, name =  "Bip01 R Finger4"
+Vertex 45
+  Bone 2, weight = 1.000, name =  "Bip01 R Finger41"
+Vertex 46
+  Bone 2, weight = 1.000, name =  "Bip01 R Finger41"
+Vertex 47
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 48
+  Bone 2, weight = 1.000, name =  "Bip01 R Finger41"
+Vertex 49
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 50
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 51
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 52
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 53
+  Bone 5, weight = 1.000, name =  "Bip01 R Finger31"
+Vertex 54
+  Bone 5, weight = 1.000, name =  "Bip01 R Finger31"
+Vertex 55
+  Bone 5, weight = 1.000, name =  "Bip01 R Finger31"
+Vertex 56
+  Bone 6, weight = 1.000, name =  "Bip01 R Finger3"
+Vertex 57
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 58
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 59
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 60
+  Bone 6, weight = 1.000, name =  "Bip01 R Finger3"
+Vertex 61
+  Bone 5, weight = 1.000, name =  "Bip01 R Finger31"
+Vertex 62
+  Bone 5, weight = 1.000, name =  "Bip01 R Finger31"
+Vertex 63
+  Bone 5, weight = 1.000, name =  "Bip01 R Finger31"
+Vertex 64
+  Bone 5, weight = 1.000, name =  "Bip01 R Finger31"
+Vertex 65
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 66
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 67
+  Bone 5, weight = 1.000, name =  "Bip01 R Finger31"
+Vertex 68
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 69
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 70
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 71
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 72
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 73
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 74
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 75
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 76
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 77
+  Bone 8, weight = 1.000, name =  "Bip01 R ForeTwist1"
+Vertex 78
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 79
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 80
+  Bone 8, weight = 1.000, name =  "Bip01 R ForeTwist1"
+Vertex 81
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 82
+  Bone 8, weight = 1.000, name =  "Bip01 R ForeTwist1"
+Vertex 83
+  Bone 8, weight = 1.000, name =  "Bip01 R ForeTwist1"
+Vertex 84
+  Bone 8, weight = 1.000, name =  "Bip01 R ForeTwist1"
+Vertex 85
+  Bone 8, weight = 1.000, name =  "Bip01 R ForeTwist1"
+Vertex 86
+  Bone 8, weight = 1.000, name =  "Bip01 R ForeTwist1"
+Vertex 87
+  Bone 8, weight = 1.000, name =  "Bip01 R ForeTwist1"
+Vertex 88
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 89
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 90
+  Bone 8, weight = 1.000, name =  "Bip01 R ForeTwist1"
+Vertex 91
+  Bone 8, weight = 1.000, name =  "Bip01 R ForeTwist1"
+Vertex 92
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 93
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 94
+  Bone 8, weight = 1.000, name =  "Bip01 R ForeTwist1"
+Vertex 95
+  Bone 8, weight = 1.000, name =  "Bip01 R ForeTwist1"
+Vertex 96
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 97
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 98
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 99
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 100
+  Bone 8, weight = 1.000, name =  "Bip01 R ForeTwist1"
+Vertex 101
+  Bone 8, weight = 1.000, name =  "Bip01 R ForeTwist1"
+Vertex 102
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 103
+  Bone 8, weight = 1.000, name =  "Bip01 R ForeTwist1"
+Vertex 104
+  Bone 8, weight = 1.000, name =  "Bip01 R ForeTwist1"
+Vertex 105
+  Bone 8, weight = 1.000, name =  "Bip01 R ForeTwist1"
+Vertex 106
+  Bone 8, weight = 1.000, name =  "Bip01 R ForeTwist1"
+Vertex 107
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 108
+  Bone 8, weight = 1.000, name =  "Bip01 R ForeTwist1"
+Vertex 109
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 110
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 111
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 112
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 113
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 114
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 115
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 116
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 117
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 118
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 119
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 120
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 121
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 122
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 123
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 124
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 125
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 126
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 127
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 128
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 129
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 130
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 131
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 132
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 133
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 134
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 135
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 136
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 137
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 138
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 139
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 140
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 141
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 142
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 143
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 144
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 145
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 146
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 147
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 148
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 149
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 150
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 151
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 152
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 153
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 154
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 155
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 156
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 157
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 158
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 159
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 160
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 161
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 162
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 163
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 164
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 165
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 166
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 167
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 168
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 169
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 170
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 171
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 172
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 173
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 174
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 175
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 176
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 177
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 178
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 179
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 180
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 181
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 182
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 183
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 184
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 185
+  Bone 5, weight = 1.000, name =  "Bip01 R Finger31"
+Vertex 186
+  Bone 5, weight = 1.000, name =  "Bip01 R Finger31"
+Vertex 187
+  Bone 5, weight = 1.000, name =  "Bip01 R Finger31"
+Vertex 188
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 189
+  Bone 5, weight = 1.000, name =  "Bip01 R Finger31"
+Vertex 190
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 191
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 192
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 193
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 194
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 195
+  Bone 5, weight = 1.000, name =  "Bip01 R Finger31"
+Vertex 196
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 197
+  Bone 5, weight = 1.000, name =  "Bip01 R Finger31"
+Vertex 198
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 199
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 200
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 201
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 202
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 203
+  Bone 7, weight = 1.000, name =  "Bip01 R Finger32"
+Vertex 204
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 205
+  Bone 2, weight = 1.000, name =  "Bip01 R Finger41"
+Vertex 206
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 207
+  Bone 2, weight = 1.000, name =  "Bip01 R Finger41"
+Vertex 208
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 209
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 210
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 211
+  Bone 2, weight = 1.000, name =  "Bip01 R Finger41"
+Vertex 212
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 213
+  Bone 2, weight = 1.000, name =  "Bip01 R Finger41"
+Vertex 214
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 215
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 216
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 217
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 218
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 219
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 220
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 221
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 222
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 223
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 224
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 225
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 226
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 227
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 228
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 229
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 230
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 231
+  Bone 2, weight = 1.000, name =  "Bip01 R Finger41"
+Vertex 232
+  Bone 2, weight = 1.000, name =  "Bip01 R Finger41"
+Vertex 233
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 234
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 235
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 236
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 237
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 238
+  Bone 10, weight = 1.000, name =  "Bip01 R Finger21"
+Vertex 239
+  Bone 10, weight = 1.000, name =  "Bip01 R Finger21"
+Vertex 240
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 241
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 242
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 243
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 244
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 245
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 246
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 247
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 248
+  Bone 12, weight = 1.000, name =  "Bip01 R Finger11"
+Vertex 249
+  Bone 11, weight = 1.000, name =  "Bip01 R Finger1"
+Vertex 250
+  Bone 12, weight = 1.000, name =  "Bip01 R Finger11"
+Vertex 251
+  Bone 12, weight = 1.000, name =  "Bip01 R Finger11"
+Vertex 252
+  Bone 12, weight = 1.000, name =  "Bip01 R Finger11"
+Vertex 253
+  Bone 13, weight = 1.000, name =  "Bip01 R Finger12"
+Vertex 254
+  Bone 12, weight = 1.000, name =  "Bip01 R Finger11"
+Vertex 255
+  Bone 13, weight = 1.000, name =  "Bip01 R Finger12"
+Vertex 256
+  Bone 13, weight = 1.000, name =  "Bip01 R Finger12"
+Vertex 257
+  Bone 13, weight = 1.000, name =  "Bip01 R Finger12"
+Vertex 258
+  Bone 13, weight = 1.000, name =  "Bip01 R Finger12"
+Vertex 259
+  Bone 12, weight = 1.000, name =  "Bip01 R Finger11"
+Vertex 260
+  Bone 12, weight = 1.000, name =  "Bip01 R Finger11"
+Vertex 261
+  Bone 13, weight = 1.000, name =  "Bip01 R Finger12"
+Vertex 262
+  Bone 13, weight = 1.000, name =  "Bip01 R Finger12"
+Vertex 263
+  Bone 13, weight = 1.000, name =  "Bip01 R Finger12"
+Vertex 264
+  Bone 13, weight = 1.000, name =  "Bip01 R Finger12"
+Vertex 265
+  Bone 13, weight = 1.000, name =  "Bip01 R Finger12"
+Vertex 266
+  Bone 12, weight = 1.000, name =  "Bip01 R Finger11"
+Vertex 267
+  Bone 12, weight = 1.000, name =  "Bip01 R Finger11"
+Vertex 268
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 269
+  Bone 13, weight = 1.000, name =  "Bip01 R Finger12"
+Vertex 270
+  Bone 13, weight = 1.000, name =  "Bip01 R Finger12"
+Vertex 271
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 272
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 273
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 274
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 275
+  Bone 10, weight = 1.000, name =  "Bip01 R Finger21"
+Vertex 276
+  Bone 10, weight = 1.000, name =  "Bip01 R Finger21"
+Vertex 277
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 278
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 279
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 280
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 281
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 282
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 283
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 284
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 285
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 286
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 287
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 288
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 289
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 290
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 291
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 292
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 293
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 294
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 295
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 296
+  Bone 10, weight = 1.000, name =  "Bip01 R Finger21"
+Vertex 297
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 298
+  Bone 10, weight = 1.000, name =  "Bip01 R Finger21"
+Vertex 299
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 300
+  Bone 10, weight = 1.000, name =  "Bip01 R Finger21"
+Vertex 301
+  Bone 10, weight = 1.000, name =  "Bip01 R Finger21"
+Vertex 302
+  Bone 10, weight = 1.000, name =  "Bip01 R Finger21"
+Vertex 303
+  Bone 10, weight = 1.000, name =  "Bip01 R Finger21"
+Vertex 304
+  Bone 10, weight = 1.000, name =  "Bip01 R Finger21"
+Vertex 305
+  Bone 10, weight = 1.000, name =  "Bip01 R Finger21"
+Vertex 306
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 307
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 308
+  Bone 15, weight = 1.000, name =  "Bip01 R Finger2"
+Vertex 309
+  Bone 15, weight = 1.000, name =  "Bip01 R Finger2"
+Vertex 310
+  Bone 10, weight = 1.000, name =  "Bip01 R Finger21"
+Vertex 311
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 312
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 313
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 314
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 315
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 316
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 317
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 318
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 319
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 320
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 321
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 322
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 323
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 324
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 325
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 326
+  Bone 14, weight = 1.000, name =  "Bip01 R Finger22"
+Vertex 327
+  Bone 10, weight = 1.000, name =  "Bip01 R Finger21"
+Vertex 328
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 329
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 330
+  Bone 11, weight = 1.000, name =  "Bip01 R Finger1"
+Vertex 331
+  Bone 12, weight = 1.000, name =  "Bip01 R Finger11"
+Vertex 332
+  Bone 12, weight = 1.000, name =  "Bip01 R Finger11"
+Vertex 333
+  Bone 12, weight = 1.000, name =  "Bip01 R Finger11"
+Vertex 334
+  Bone 12, weight = 1.000, name =  "Bip01 R Finger11"
+Vertex 335
+  Bone 12, weight = 1.000, name =  "Bip01 R Finger11"
+Vertex 336
+  Bone 12, weight = 1.000, name =  "Bip01 R Finger11"
+Vertex 337
+  Bone 12, weight = 1.000, name =  "Bip01 R Finger11"
+Vertex 338
+  Bone 12, weight = 1.000, name =  "Bip01 R Finger11"
+Vertex 339
+  Bone 12, weight = 1.000, name =  "Bip01 R Finger11"
+Vertex 340
+  Bone 13, weight = 1.000, name =  "Bip01 R Finger12"
+Vertex 341
+  Bone 13, weight = 1.000, name =  "Bip01 R Finger12"
+Vertex 342
+  Bone 13, weight = 1.000, name =  "Bip01 R Finger12"
+Vertex 343
+  Bone 16, weight = 1.000, name =  "Bip01 R Finger02"
+Vertex 344
+  Bone 16, weight = 1.000, name =  "Bip01 R Finger02"
+Vertex 345
+  Bone 17, weight = 1.000, name =  "Bip01 R Finger01"
+Vertex 346
+  Bone 16, weight = 1.000, name =  "Bip01 R Finger02"
+Vertex 347
+  Bone 16, weight = 1.000, name =  "Bip01 R Finger02"
+Vertex 348
+  Bone 16, weight = 1.000, name =  "Bip01 R Finger02"
+Vertex 349
+  Bone 16, weight = 1.000, name =  "Bip01 R Finger02"
+Vertex 350
+  Bone 16, weight = 1.000, name =  "Bip01 R Finger02"
+Vertex 351
+  Bone 16, weight = 1.000, name =  "Bip01 R Finger02"
+Vertex 352
+  Bone 16, weight = 1.000, name =  "Bip01 R Finger02"
+Vertex 353
+  Bone 16, weight = 1.000, name =  "Bip01 R Finger02"
+Vertex 354
+  Bone 16, weight = 1.000, name =  "Bip01 R Finger02"
+Vertex 355
+  Bone 16, weight = 1.000, name =  "Bip01 R Finger02"
+Vertex 356
+  Bone 16, weight = 1.000, name =  "Bip01 R Finger02"
+Vertex 357
+  Bone 17, weight = 1.000, name =  "Bip01 R Finger01"
+Vertex 358
+  Bone 17, weight = 1.000, name =  "Bip01 R Finger01"
+Vertex 359
+  Bone 1, weight = 1.000, name =  "Bip01 R Finger0"
+Vertex 360
+  Bone 17, weight = 1.000, name =  "Bip01 R Finger01"
+Vertex 361
+  Bone 1, weight = 1.000, name =  "Bip01 R Finger0"
+Vertex 362
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 363
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 364
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 365
+  Bone 1, weight = 1.000, name =  "Bip01 R Finger0"
+Vertex 366
+  Bone 17, weight = 1.000, name =  "Bip01 R Finger01"
+Vertex 367
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 368
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 369
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 370
+  Bone 17, weight = 1.000, name =  "Bip01 R Finger01"
+Vertex 371
+  Bone 1, weight = 1.000, name =  "Bip01 R Finger0"
+Vertex 372
+  Bone 17, weight = 1.000, name =  "Bip01 R Finger01"
+Vertex 373
+  Bone 1, weight = 1.000, name =  "Bip01 R Finger0"
+Vertex 374
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 375
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 376
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 377
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 378
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 379
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 380
+  Bone 1, weight = 1.000, name =  "Bip01 R Finger0"
+Vertex 381
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 382
+  Bone 17, weight = 1.000, name =  "Bip01 R Finger01"
+Vertex 383
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 384
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 385
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 386
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 387
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 388
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 389
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 390
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 391
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 392
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 393
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 394
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 395
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 396
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 397
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 398
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 399
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 400
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 401
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 402
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 403
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 404
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 405
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 406
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 407
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 408
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 409
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 410
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 411
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 412
+  Bone 9, weight = 1.000, name =  "Bip01 R Forearm"
+Vertex 413
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 414
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 415
+  Bone 8, weight = 1.000, name =  "Bip01 R ForeTwist1"
+Vertex 416
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 417
+  Bone 16, weight = 1.000, name =  "Bip01 R Finger02"
+Vertex 418
+  Bone 17, weight = 1.000, name =  "Bip01 R Finger01"
+Vertex 419
+  Bone 16, weight = 1.000, name =  "Bip01 R Finger02"
+Vertex 420
+  Bone 16, weight = 1.000, name =  "Bip01 R Finger02"
+Vertex 421
+  Bone 17, weight = 1.000, name =  "Bip01 R Finger01"
+Vertex 422
+  Bone 17, weight = 1.000, name =  "Bip01 R Finger01"
+Vertex 423
+  Bone 17, weight = 1.000, name =  "Bip01 R Finger01"
+Vertex 424
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 425
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 426
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 427
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 428
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 429
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 430
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 431
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 432
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 433
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 434
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 435
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 436
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 437
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 438
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 439
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 440
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 441
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 442
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 443
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 444
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 445
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 446
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 447
+  Bone 4, weight = 1.000, name =  "Bip01 R Finger42"
+Vertex 448
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 449
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 450
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 451
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 452
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 453
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 454
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 455
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 456
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 457
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 458
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 459
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 460
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 461
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 462
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 463
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 464
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 465
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 466
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 467
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 468
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 469
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 470
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 471
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 472
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 473
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 474
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 475
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 476
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 477
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 478
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 479
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 480
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 481
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 482
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 483
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 484
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 485
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 486
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 487
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 488
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 489
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 490
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 491
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 492
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 493
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 494
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 495
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 496
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 497
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 498
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 499
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 500
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 501
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 502
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 503
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 504
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 505
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 506
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 507
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 508
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 509
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 510
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 511
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 512
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 513
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 514
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 515
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 516
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 517
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 518
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 519
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 520
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 521
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 522
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 523
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 524
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 525
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 526
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 527
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 528
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 529
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 530
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 531
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 532
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 533
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 534
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 535
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 536
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 537
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 538
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 539
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 540
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 541
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 542
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 543
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 544
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 545
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 546
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 547
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 548
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 549
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 550
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 551
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 552
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 553
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 554
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 555
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 556
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 557
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 558
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 559
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 560
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 561
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 562
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 563
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 564
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 565
+  Bone 0, weight = 1.000, name =  "Bip01 R Hand"
+Vertex 566
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 567
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 568
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 569
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 570
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 571
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 572
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 573
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 574
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 575
+  Bone 18, weight = 1.000, name =  "Bip01 R UpperArm"
+Vertex 576
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 577
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 578
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 579
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 580
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 581
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 582
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 583
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 584
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 585
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 586
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 587
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 588
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 589
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 590
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 591
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 592
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 593
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 594
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 595
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 596
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 597
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 598
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 599
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 600
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 601
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 602
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 603
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 604
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 605
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 606
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 607
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 608
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 609
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 610
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 611
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 612
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 613
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 614
+  Bone 20, weight = 1.000, name =  "Bip01 L Finger4"
+Vertex 615
+  Bone 21, weight = 1.000, name =  "Bip01 L Finger41"
+Vertex 616
+  Bone 21, weight = 1.000, name =  "Bip01 L Finger41"
+Vertex 617
+  Bone 21, weight = 1.000, name =  "Bip01 L Finger41"
+Vertex 618
+  Bone 21, weight = 1.000, name =  "Bip01 L Finger41"
+Vertex 619
+  Bone 21, weight = 1.000, name =  "Bip01 L Finger41"
+Vertex 620
+  Bone 20, weight = 1.000, name =  "Bip01 L Finger4"
+Vertex 621
+  Bone 21, weight = 1.000, name =  "Bip01 L Finger41"
+Vertex 622
+  Bone 21, weight = 1.000, name =  "Bip01 L Finger41"
+Vertex 623
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 624
+  Bone 21, weight = 1.000, name =  "Bip01 L Finger41"
+Vertex 625
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 626
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 627
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 628
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 629
+  Bone 23, weight = 1.000, name =  "Bip01 L Finger31"
+Vertex 630
+  Bone 23, weight = 1.000, name =  "Bip01 L Finger31"
+Vertex 631
+  Bone 23, weight = 1.000, name =  "Bip01 L Finger31"
+Vertex 632
+  Bone 24, weight = 1.000, name =  "Bip01 L Finger3"
+Vertex 633
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 634
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 635
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 636
+  Bone 24, weight = 1.000, name =  "Bip01 L Finger3"
+Vertex 637
+  Bone 23, weight = 1.000, name =  "Bip01 L Finger31"
+Vertex 638
+  Bone 23, weight = 1.000, name =  "Bip01 L Finger31"
+Vertex 639
+  Bone 23, weight = 1.000, name =  "Bip01 L Finger31"
+Vertex 640
+  Bone 23, weight = 1.000, name =  "Bip01 L Finger31"
+Vertex 641
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 642
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 643
+  Bone 23, weight = 1.000, name =  "Bip01 L Finger31"
+Vertex 644
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 645
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 646
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 647
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 648
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 649
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 650
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 651
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 652
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 653
+  Bone 26, weight = 1.000, name =  "Bip01 L ForeTwist1"
+Vertex 654
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 655
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 656
+  Bone 26, weight = 1.000, name =  "Bip01 L ForeTwist1"
+Vertex 657
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 658
+  Bone 26, weight = 1.000, name =  "Bip01 L ForeTwist1"
+Vertex 659
+  Bone 26, weight = 1.000, name =  "Bip01 L ForeTwist1"
+Vertex 660
+  Bone 26, weight = 1.000, name =  "Bip01 L ForeTwist1"
+Vertex 661
+  Bone 26, weight = 1.000, name =  "Bip01 L ForeTwist1"
+Vertex 662
+  Bone 26, weight = 1.000, name =  "Bip01 L ForeTwist1"
+Vertex 663
+  Bone 26, weight = 1.000, name =  "Bip01 L ForeTwist1"
+Vertex 664
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 665
+  Bone 26, weight = 1.000, name =  "Bip01 L ForeTwist1"
+Vertex 666
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 667
+  Bone 26, weight = 1.000, name =  "Bip01 L ForeTwist1"
+Vertex 668
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 669
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 670
+  Bone 26, weight = 1.000, name =  "Bip01 L ForeTwist1"
+Vertex 671
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 672
+  Bone 26, weight = 1.000, name =  "Bip01 L ForeTwist1"
+Vertex 673
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 674
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 675
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 676
+  Bone 26, weight = 1.000, name =  "Bip01 L ForeTwist1"
+Vertex 677
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 678
+  Bone 26, weight = 1.000, name =  "Bip01 L ForeTwist1"
+Vertex 679
+  Bone 26, weight = 1.000, name =  "Bip01 L ForeTwist1"
+Vertex 680
+  Bone 26, weight = 1.000, name =  "Bip01 L ForeTwist1"
+Vertex 681
+  Bone 26, weight = 1.000, name =  "Bip01 L ForeTwist1"
+Vertex 682
+  Bone 26, weight = 1.000, name =  "Bip01 L ForeTwist1"
+Vertex 683
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 684
+  Bone 26, weight = 1.000, name =  "Bip01 L ForeTwist1"
+Vertex 685
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 686
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 687
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 688
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 689
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 690
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 691
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 692
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 693
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 694
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 695
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 696
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 697
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 698
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 699
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 700
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 701
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 702
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 703
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 704
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 705
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 706
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 707
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 708
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 709
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 710
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 711
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 712
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 713
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 714
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 715
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 716
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 717
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 718
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 719
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 720
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 721
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 722
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 723
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 724
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 725
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 726
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 727
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 728
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 729
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 730
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 731
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 732
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 733
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 734
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 735
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 736
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 737
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 738
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 739
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 740
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 741
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 742
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 743
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 744
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 745
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 746
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 747
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 748
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 749
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 750
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 751
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 752
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 753
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 754
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 755
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 756
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 757
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 758
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 759
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 760
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 761
+  Bone 23, weight = 1.000, name =  "Bip01 L Finger31"
+Vertex 762
+  Bone 23, weight = 1.000, name =  "Bip01 L Finger31"
+Vertex 763
+  Bone 23, weight = 1.000, name =  "Bip01 L Finger31"
+Vertex 764
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 765
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 766
+  Bone 23, weight = 1.000, name =  "Bip01 L Finger31"
+Vertex 767
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 768
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 769
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 770
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 771
+  Bone 23, weight = 1.000, name =  "Bip01 L Finger31"
+Vertex 772
+  Bone 23, weight = 1.000, name =  "Bip01 L Finger31"
+Vertex 773
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 774
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 775
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 776
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 777
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 778
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 779
+  Bone 25, weight = 1.000, name =  "Bip01 L Finger32"
+Vertex 780
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 781
+  Bone 21, weight = 1.000, name =  "Bip01 L Finger41"
+Vertex 782
+  Bone 21, weight = 1.000, name =  "Bip01 L Finger41"
+Vertex 783
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 784
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 785
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 786
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 787
+  Bone 21, weight = 1.000, name =  "Bip01 L Finger41"
+Vertex 788
+  Bone 21, weight = 1.000, name =  "Bip01 L Finger41"
+Vertex 789
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 790
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 791
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 792
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 793
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 794
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 795
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 796
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 797
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 798
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 799
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 800
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 801
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 802
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 803
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 804
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 805
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 806
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 807
+  Bone 21, weight = 1.000, name =  "Bip01 L Finger41"
+Vertex 808
+  Bone 21, weight = 1.000, name =  "Bip01 L Finger41"
+Vertex 809
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 810
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 811
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 812
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 813
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 814
+  Bone 28, weight = 1.000, name =  "Bip01 L Finger21"
+Vertex 815
+  Bone 28, weight = 1.000, name =  "Bip01 L Finger21"
+Vertex 816
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 817
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 818
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 819
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 820
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 821
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 822
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 823
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 824
+  Bone 29, weight = 1.000, name =  "Bip01 L Finger11"
+Vertex 825
+  Bone 30, weight = 1.000, name =  "Bip01 L Finger1"
+Vertex 826
+  Bone 29, weight = 1.000, name =  "Bip01 L Finger11"
+Vertex 827
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 828
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 829
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 830
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 831
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 832
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 833
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 834
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 835
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 836
+  Bone 29, weight = 1.000, name =  "Bip01 L Finger11"
+Vertex 837
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 838
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 839
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 840
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 841
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 842
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 843
+  Bone 29, weight = 1.000, name =  "Bip01 L Finger11"
+Vertex 844
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 845
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 846
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 847
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 848
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 849
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 850
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 851
+  Bone 28, weight = 1.000, name =  "Bip01 L Finger21"
+Vertex 852
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 853
+  Bone 28, weight = 1.000, name =  "Bip01 L Finger21"
+Vertex 854
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 855
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 856
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 857
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 858
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 859
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 860
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 861
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 862
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 863
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 864
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 865
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 866
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 867
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 868
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 869
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 870
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 871
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 872
+  Bone 28, weight = 1.000, name =  "Bip01 L Finger21"
+Vertex 873
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 874
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 875
+  Bone 28, weight = 1.000, name =  "Bip01 L Finger21"
+Vertex 876
+  Bone 28, weight = 1.000, name =  "Bip01 L Finger21"
+Vertex 877
+  Bone 28, weight = 1.000, name =  "Bip01 L Finger21"
+Vertex 878
+  Bone 28, weight = 1.000, name =  "Bip01 L Finger21"
+Vertex 879
+  Bone 28, weight = 1.000, name =  "Bip01 L Finger21"
+Vertex 880
+  Bone 28, weight = 1.000, name =  "Bip01 L Finger21"
+Vertex 881
+  Bone 28, weight = 1.000, name =  "Bip01 L Finger21"
+Vertex 882
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 883
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 884
+  Bone 33, weight = 1.000, name =  "Bip01 L Finger2"
+Vertex 885
+  Bone 33, weight = 1.000, name =  "Bip01 L Finger2"
+Vertex 886
+  Bone 28, weight = 1.000, name =  "Bip01 L Finger21"
+Vertex 887
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 888
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 889
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 890
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 891
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 892
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 893
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 894
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 895
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 896
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 897
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 898
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 899
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 900
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 901
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 902
+  Bone 32, weight = 1.000, name =  "Bip01 L Finger22"
+Vertex 903
+  Bone 28, weight = 1.000, name =  "Bip01 L Finger21"
+Vertex 904
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 905
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 906
+  Bone 30, weight = 1.000, name =  "Bip01 L Finger1"
+Vertex 907
+  Bone 29, weight = 1.000, name =  "Bip01 L Finger11"
+Vertex 908
+  Bone 29, weight = 1.000, name =  "Bip01 L Finger11"
+Vertex 909
+  Bone 29, weight = 1.000, name =  "Bip01 L Finger11"
+Vertex 910
+  Bone 29, weight = 1.000, name =  "Bip01 L Finger11"
+Vertex 911
+  Bone 29, weight = 1.000, name =  "Bip01 L Finger11"
+Vertex 912
+  Bone 29, weight = 1.000, name =  "Bip01 L Finger11"
+Vertex 913
+  Bone 29, weight = 1.000, name =  "Bip01 L Finger11"
+Vertex 914
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 915
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 916
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 917
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 918
+  Bone 31, weight = 1.000, name =  "Bip01 L Finger12"
+Vertex 919
+  Bone 34, weight = 1.000, name =  "Bip01 L Finger02"
+Vertex 920
+  Bone 35, weight = 1.000, name =  "Bip01 L Finger01"
+Vertex 921
+  Bone 34, weight = 1.000, name =  "Bip01 L Finger02"
+Vertex 922
+  Bone 35, weight = 1.000, name =  "Bip01 L Finger01"
+Vertex 923
+  Bone 34, weight = 1.000, name =  "Bip01 L Finger02"
+Vertex 924
+  Bone 34, weight = 1.000, name =  "Bip01 L Finger02"
+Vertex 925
+  Bone 34, weight = 1.000, name =  "Bip01 L Finger02"
+Vertex 926
+  Bone 34, weight = 1.000, name =  "Bip01 L Finger02"
+Vertex 927
+  Bone 34, weight = 1.000, name =  "Bip01 L Finger02"
+Vertex 928
+  Bone 34, weight = 1.000, name =  "Bip01 L Finger02"
+Vertex 929
+  Bone 34, weight = 1.000, name =  "Bip01 L Finger02"
+Vertex 930
+  Bone 34, weight = 1.000, name =  "Bip01 L Finger02"
+Vertex 931
+  Bone 34, weight = 1.000, name =  "Bip01 L Finger02"
+Vertex 932
+  Bone 34, weight = 1.000, name =  "Bip01 L Finger02"
+Vertex 933
+  Bone 35, weight = 1.000, name =  "Bip01 L Finger01"
+Vertex 934
+  Bone 36, weight = 1.000, name =  "Bip01 L Finger0"
+Vertex 935
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 936
+  Bone 35, weight = 1.000, name =  "Bip01 L Finger01"
+Vertex 937
+  Bone 36, weight = 1.000, name =  "Bip01 L Finger0"
+Vertex 938
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 939
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 940
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 941
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 942
+  Bone 35, weight = 1.000, name =  "Bip01 L Finger01"
+Vertex 943
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 944
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 945
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 946
+  Bone 35, weight = 1.000, name =  "Bip01 L Finger01"
+Vertex 947
+  Bone 36, weight = 1.000, name =  "Bip01 L Finger0"
+Vertex 948
+  Bone 36, weight = 1.000, name =  "Bip01 L Finger0"
+Vertex 949
+  Bone 35, weight = 1.000, name =  "Bip01 L Finger01"
+Vertex 950
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 951
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 952
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 953
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 954
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 955
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 956
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 957
+  Bone 36, weight = 1.000, name =  "Bip01 L Finger0"
+Vertex 958
+  Bone 35, weight = 1.000, name =  "Bip01 L Finger01"
+Vertex 959
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 960
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 961
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 962
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 963
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 964
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 965
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 966
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 967
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 968
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 969
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 970
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 971
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 972
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 973
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 974
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 975
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 976
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 977
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 978
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 979
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 980
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 981
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 982
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 983
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 984
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 985
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 986
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 987
+  Bone 27, weight = 1.000, name =  "Bip01 L Forearm"
+Vertex 988
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 989
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 990
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 991
+  Bone 26, weight = 1.000, name =  "Bip01 L ForeTwist1"
+Vertex 992
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 993
+  Bone 34, weight = 1.000, name =  "Bip01 L Finger02"
+Vertex 994
+  Bone 35, weight = 1.000, name =  "Bip01 L Finger01"
+Vertex 995
+  Bone 34, weight = 1.000, name =  "Bip01 L Finger02"
+Vertex 996
+  Bone 35, weight = 1.000, name =  "Bip01 L Finger01"
+Vertex 997
+  Bone 35, weight = 1.000, name =  "Bip01 L Finger01"
+Vertex 998
+  Bone 35, weight = 1.000, name =  "Bip01 L Finger01"
+Vertex 999
+  Bone 35, weight = 1.000, name =  "Bip01 L Finger01"
+Vertex 1000
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1001
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1002
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1003
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1004
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1005
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1006
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1007
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1008
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1009
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1010
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1011
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1012
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1013
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1014
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1015
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1016
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1017
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1018
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1019
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1020
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1021
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1022
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1023
+  Bone 22, weight = 1.000, name =  "Bip01 L Finger42"
+Vertex 1024
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1025
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1026
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1027
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1028
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1029
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1030
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1031
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1032
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1033
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1034
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1035
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1036
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1037
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1038
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1039
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1040
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1041
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1042
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1043
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1044
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1045
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1046
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1047
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1048
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1049
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1050
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1051
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1052
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1053
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1054
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1055
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1056
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1057
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1058
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1059
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1060
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1061
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1062
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1063
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1064
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1065
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1066
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1067
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1068
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1069
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1070
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1071
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1072
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1073
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1074
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1075
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1076
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1077
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1078
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1079
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1080
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1081
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1082
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1083
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1084
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1085
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1086
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1087
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1088
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1089
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1090
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1091
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1092
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1093
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1094
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1095
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1096
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1097
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1098
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1099
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1100
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1101
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1102
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1103
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1104
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1105
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1106
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1107
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1108
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1109
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1110
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1111
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1112
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1113
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1114
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1115
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1116
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1117
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1118
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1119
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1120
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1121
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1122
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1123
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1124
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1125
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1126
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1127
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1128
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1129
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1130
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1131
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1132
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1133
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1134
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 1135
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 1136
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 1137
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 1138
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 1139
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 1140
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 1141
+  Bone 19, weight = 1.000, name =  "Bip01 L Hand"
+Vertex 1142
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1143
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1144
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1145
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1146
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1147
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1148
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1149
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1150
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+Vertex 1151
+  Bone 37, weight = 1.000, name =  "Bip01 L UpperArm"
+
+Optimizing meshes...
+
+Optimizing mesh "knife" detail level 0.
+375 verts before joining verts
+375 verts after joining verts
+432 faces before stripping
+Using Quick, dirty, & ugly stripping method.
+32 strips with average length 18.25 (range 3 to 78) and 88 reversals
+
+Optimizing skin mesh "hand0" detail level 0.
+1152 verts before joining verts
+1152 verts after joining verts
+1564 faces before stripping
+Using Quick, dirty, & ugly stripping method.
+170 strips with average length 13.42 (range 3 to 94) and 378 reversals
+
+Shape Hierarchy:
+
+   Details:
+      detail0, Subtree 0, objectDetail 0, size 0
+
+   Subtrees:
+      Subtree 0
+         Bip01
+            Bip01 Spine
+               Bip01 Neck
+                  Bip01 Head
+                  Bip01 L Clavicle
+                     Bip01 L UpperArm
+                        Bip01 L Forearm
+                           Bip01 L Hand
+                              Bip01 L Finger0
+                                 Bip01 L Finger01
+                                    Bip01 L Finger02
+                              Bip01 L Finger1
+                                 Bip01 L Finger11
+                                    Bip01 L Finger12
+                              Bip01 L Finger2
+                                 Bip01 L Finger21
+                                    Bip01 L Finger22
+                              Bip01 L Finger3
+                                 Bip01 L Finger31
+                                    Bip01 L Finger32
+                              Bip01 L Finger4
+                                 Bip01 L Finger41
+                                    Bip01 L Finger42
+                           Bip01 L ForeTwist1
+                  Bip01 R Clavicle
+                     Bip01 R UpperArm
+                        Bip01 R Forearm
+                           Bip01 R Hand
+                              Bip01 R Finger0
+                                 Bip01 R Finger01
+                                    Bip01 R Finger02
+                              Bip01 R Finger1
+                                 Bip01 R Finger11
+                                    Bip01 R Finger12
+                              Bip01 R Finger2
+                                 Bip01 R Finger21
+                                    Bip01 R Finger22
+                              Bip01 R Finger3
+                                 Bip01 R Finger31
+                                    Bip01 R Finger32
+                              Bip01 R Finger4
+                                 Bip01 R Finger41
+                                    Bip01 R Finger42
+                              Bone01
+                                 Bone02
+                                 knife0 --> Object knife with following details:  0
+                           Bip01 R ForeTwist1
+            Bip01 L Thigh
+               Bip01 L Calf
+                  Bip01 L Foot
+                     Bip01 L Toe0
+            Bip01 R Thigh
+               Bip01 R Calf
+                  Bip01 R Foot
+                     Bip01 R Toe0
+         Root
+
+   Skins:
+      Skin hand with following details:  0
+
+
+   Sequences:
+
+   Material list:
+   material #0: "hand_t".
+   material #1: "knife_t".

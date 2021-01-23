@@ -1,0 +1,33 @@
+005 - 040  draw
+040 - 070  walk         
+071 - 089  run          
+120 - 135  melee combat-1     
+135 - 160  melee combat-2     
+165 - 195  ladder climb up     
+195 - 225  ladder climb down   
+230 - 260  push         
+260 - 290  pull         
+290 - 330  pick-up      
+330 - 380  throw granade
+380 - 480  plant mine   
+480 - 580  disarm mine
+580 - 680  typing/hacking       
+680 - 780  idle-1       
+780 - 880  idle-2       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
